@@ -7,7 +7,7 @@ Real-time computer vision system for automated quality control on donut producti
 ## Folder Structure
 
 ```
-xis_RTMDet_donut_pipeline_2026-05/
+RTMDet_donut_inspection_pipeline/
 ├── main_data/
 │   ├── video.mp4                  ← input video (place here)
 │   ├── donut_row_roi.json         ← ROI coordinates
